@@ -2,7 +2,7 @@
 First. add permission.
 in src
 chmod +x cat_getter.py
-chenge value to your video in cat_getter.launch
+Next, chenge video_stream_provider to your video in cat_getter.launch
 <arg name="video_stream_provider" value="" />
 Then 
 roslaunch cat_getter cat_getter.launch
